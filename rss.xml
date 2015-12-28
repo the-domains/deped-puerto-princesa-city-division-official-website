@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DepEd Puerto Princesa City Division Official Website]]></title>
+        <description><![CDATA[DepEd Puerto Princesa City Division Official Website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 12:39:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DepEd Puerto Princesa Official Website]]></title>
+            <description><![CDATA[<h1>DepEd Puerto Princesa Official Website</h1>]]></description>
+            <link>undefineddeped-puerto-princesa-official-website/index.html</link>
+            <guid isPermaLink="false">773445d9-16e2-462e-8775-02450d2faff8</guid>
+            <pubDate>Mon, 28 Dec 2015 12:39:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
